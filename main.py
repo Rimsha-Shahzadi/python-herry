@@ -1,7 +1,5 @@
 # print("Hello Rimsha")
-# print("Hello Jannat")
 # print(8+8)
-
 # "Hello"[1:4]
 import time
 timestamp =time.strftime('%H:%M:%S')
