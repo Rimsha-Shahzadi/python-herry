@@ -21,6 +21,13 @@ timestamp =time.strftime('Good Afternoon Sir')
 print(timestamp)
 timestamp =time.strftime('Good Night Sir')
 print(timestamp)
+
+
+age =int(input("Enter your age: "))
+if age >= 18:
+  print("You can vote")
+else:
+  print("Sorry you cannot vote")  
                                              
 
 
